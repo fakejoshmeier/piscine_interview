@@ -1,0 +1,2 @@
+Space: 0(n), where n is the number of entries created in the hash.
+Time: 0(n), where n is the potential number of collisions in an index of the table, and thus number of members to search through.

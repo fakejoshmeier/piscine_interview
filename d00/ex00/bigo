@@ -1,0 +1,2 @@
+Space: O(1), No memory allocated.
+Time: O(n), where n is the number of elements in the array.
