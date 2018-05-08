@@ -1,0 +1,2 @@
+Space: 0(n + 1), where n is the number of times I allocate for s_item, and 1 is the times I iterated for s_stack
+Time: 0(n), where n is the number of items in the list

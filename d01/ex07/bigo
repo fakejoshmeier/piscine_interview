@@ -1,0 +1,2 @@
+Space: O(n), where n is the number of spaces on the board.
+Time: O(n^2), where n is exponentiated as a result of having a nested while loop.
