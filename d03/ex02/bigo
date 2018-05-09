@@ -1,0 +1,4 @@
+Space: O(b1 + b2), where b1 is the height from root to the needed branch and b2 is the height
+from root to the other branch.
+Time: O(n) for the recursive search through the tree, where n is recursive depth,
+and O(m) for the finding the intersection, where m is the height of the tree.  So, O(n + m).

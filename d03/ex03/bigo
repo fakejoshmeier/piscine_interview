@@ -1,0 +1,6 @@
+Space: O(n), where n is the depth of the recursion down both branches.  The last recursive call
+does not increase the complexity of the operation as it is made as the final call and is thus
+considered linear.
+Time: O(n + h), where n is the number of elements and h is the height of the tree.
+By iterating through all of the elements to a node and then through to the next level of the tree.
+So, O(n + h);

@@ -1,0 +1,3 @@
+Space: O(log n), where n is number of elements.
+Normally, worst case is O(n), but a balanced tree will be best case, hence O(log n).
+Time: O(n), where n is the number of elements in the array.
