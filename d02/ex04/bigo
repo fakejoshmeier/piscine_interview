@@ -1,0 +1,2 @@
+Space: O(1) in a best case scenario, otherwise O(n), where n is the range between the smallest element and the greatest.
+Time: O(n + k), where n is the number of elements and k is the range.

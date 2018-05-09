@@ -1,0 +1,2 @@
+Space: O(log n), where n is the number of groups created to handle the unsorted stones
+Time: O(n), where n is the number of elements.

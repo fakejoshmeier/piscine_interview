@@ -1,0 +1,2 @@
+Space: O(1), as no space is allocated.
+Time: O(n^2), where n is the length of the array, and is generally going to be read over again and again.

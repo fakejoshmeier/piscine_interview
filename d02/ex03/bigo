@@ -1,0 +1,2 @@
+Space: O(n), where n is the number of elements.
+Time: O(n log n), where n is the number of elements.  It takes log n splits to reach the number of elements, and each pass through the data will take approximately the same amount of time for each element, or n.  Thus, n log n.

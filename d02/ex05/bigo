@@ -1,0 +1,3 @@
+Space: O(1), as no space has been allocated.
+Time: O(log n + k), as it's a binary search, and k is the number of elements with the same value.
+My code iterates through the elements to find the first instance, hence k.
