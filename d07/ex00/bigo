@@ -1,0 +1,4 @@
+Space: O(1), as no new space is allocated.
+Time: O(n log n), where the first call to build the heap is log n,
+and the call for heapifying the reduced heap is log n called n times,
+so ((n + 1)log n), or (n log n).

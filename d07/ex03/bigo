@@ -1,0 +1,4 @@
+Space: O(n + k), where n is the depth of recursion and the k is the number of
+elements in the queue.
+Time: O(n log n), as with every level of recursion, the number of elements to
+recurse through is reduced.

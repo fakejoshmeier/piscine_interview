@@ -1,0 +1,2 @@
+Space: O(k), where k is the size of the returned int array plus the DEqueue.
+TIme: O(nk), where n is the number of elements in the initial array and k is the size of the window.
