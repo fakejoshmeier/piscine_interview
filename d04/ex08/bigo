@@ -1,0 +1,2 @@
+Space: O(1), as nothing is allocated.
+Time: O(1), since there's only the one operation.

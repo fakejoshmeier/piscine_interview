@@ -1,0 +1,2 @@
+Space: O(1).
+Time: O(m), where m is the number of occupied spots.
